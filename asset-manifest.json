@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sui-Workshop/static/css/main.8dd83b03.css",
+    "main.js": "/Sui-Workshop/static/js/main.25f93e33.js",
+    "index.html": "/Sui-Workshop/index.html",
+    "main.8dd83b03.css.map": "/Sui-Workshop/static/css/main.8dd83b03.css.map",
+    "main.25f93e33.js.map": "/Sui-Workshop/static/js/main.25f93e33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd83b03.css",
+    "static/js/main.25f93e33.js"
+  ]
+}
